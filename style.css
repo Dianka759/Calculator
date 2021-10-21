@@ -48,7 +48,7 @@ button {
 }
 
 button:active {
-    background-color: #999;
+    background-color: rgb(68, 10, 134);
 }
 
 .operator {
@@ -56,7 +56,7 @@ button:active {
 }
 
 .operator:active {
-    background-color: orange;
+    background-color: rgb(226, 7, 161);
 }
 
 #equals {
@@ -65,5 +65,5 @@ button:active {
 }
 
 #equals:active {
-    background-color: #eee;
+    background-color: rgb(226, 241, 12);
 }
